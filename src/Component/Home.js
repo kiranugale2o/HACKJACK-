@@ -23,7 +23,7 @@ export default function Home(){
         
          <Technologyuse/>
          <Companys/>           
-          <div className="about" id="aboutme">
+          <div className="about" id="aboutme" style={{margin:"15% 0px"}}>
             <div className="text-center h2 p-3" style={{fontFamily:"cursive"}}>
                Hackjack Staffing
             </div> <Staff/></div>

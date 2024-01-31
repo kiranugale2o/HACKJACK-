@@ -7,7 +7,7 @@ export default function Services(){
             <p className="text-center h2">Our Services</p>
             <div className="serv1">
             <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border" id="card">
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="webdesing.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 60px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Web Desing</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
@@ -16,7 +16,7 @@ export default function Services(){
  </div>
   </div>
   <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border"id="card">
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="webd.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 10px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Web Developement</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
@@ -26,7 +26,7 @@ export default function Services(){
   </div>
   
   <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border" id="card">
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="appdev.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 20px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>App Developement</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
@@ -38,7 +38,7 @@ export default function Services(){
   </div>
   <div className="serv2">
   <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border" id="card">
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="content.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 20px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Content Writing</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
@@ -47,7 +47,7 @@ export default function Services(){
  </div>
   </div>
   <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border"id="card">
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="paid.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 30px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Paid Promotion</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
@@ -57,7 +57,7 @@ export default function Services(){
   </div>
   
   <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border"id="card" >
-  <img src="dev.jpg" className="card-img-top" id="cardimg" alt="" />
+  <img src="desktop.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
     <h5 className="card-title" style={{margin:"-20px 10px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Desktop Application </h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
