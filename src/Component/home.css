@@ -1,0 +1,417 @@
+
+
+input[type=text],
+select,
+textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #eeeeee;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #4cd9c6;
+  color: #ffffff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #6fe8d7;
+}
+
+
+.home{
+    
+    width: 100%;
+    margin: 0px;
+    height: 550px;
+    background-color: black;
+}
+.content{
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    display: flex;
+}
+.content1{
+    margin: auto;
+    width: 40%;
+ 
+}
+
+.content2{
+    width: 60%;
+    margin: 4% auto;
+   
+}
+.content2 img{
+    width: 100%;
+ margin: auto 24%;
+}
+#mycon{
+    
+    color: cornsilk;
+    
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     width: 100%;
+    font-weight: 900;
+    font-size: 2em;
+    margin: auto 30%;
+}
+
+#inside-info{
+    color: white;
+    font-size: 15px;
+    width: 75%;
+    margin-inline: -30px;
+    font-weight: 200;
+    font-family: cursive;
+}
+#contact-btn{
+  
+   font-weight: 500;
+   width: 30%;
+   font: 20px  cursive;
+}
+
+.boxs{
+    width: 90%;
+    margin:4% auto;
+    padding: auto;
+    height: 150px;
+    background-color: black;
+    display: flex;
+    justify-items: self-end;
+    
+}
+.box1{
+    width: 35%;
+    background-color:black;
+    color: white;
+    display: flex;
+}
+.icon1{
+    
+    width: 14%;
+    height: 50px;
+    color: black;
+   background-color:white;
+    margin: 12%;
+    border: 10px;
+}
+.text1{
+    width: 50%;
+    
+    font-size: larger;
+    font-weight: 600;
+
+    margin: 10% -15px; 
+
+}
+.box2{
+    width: 35%;
+    color:black;
+    background-color:white;
+    display: flex;
+}
+.icon2{
+    width: 14%;
+    border:5px none black ;
+    height: 50px;
+    color: black;
+   background-color:white;
+    margin: 12%;
+}
+.text2{
+    width: 50%;
+    
+    font-size: larger;
+    font-weight: 600;
+
+    margin: 10% -15px; 
+
+}
+.box3{
+    width: 35%;
+    background-color:black;
+    display: flex;
+    color: white;
+}
+.icon3{
+    width: 14%;
+    height: 50px;
+    color:black;
+    background-color: white;
+ 
+    margin: 12%;
+}
+.text3{
+    width: 50%;
+    
+    font-size: larger;
+    font-weight: 600;
+
+    margin: 10% -15px; 
+
+}
+.services{
+    display: block;
+    width: 90%;
+    margin: auto;
+    padding: auto;
+}
+.serv1{
+    width: 100%;
+   
+    justify-content: space-between;
+    display: flex;
+}
+#cardimg{
+    width: 40%;
+    margin:10% 30% ;
+}
+.serv2{
+    width: 100%;
+   
+    justify-content: space-between;
+    display: flex;
+}
+#card{
+    width: 20rem;
+}
+
+.industry-ser{
+  width: 100%;
+  height: 450px;
+}
+#in-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: white;
+}
+.loading-animation{
+    width: 10%;
+    margin: auto 45%;
+    height: 6px;
+    background-color:black;
+}
+.under{
+    width: 15%;
+    height: 6px;
+    background-color: white;
+    animation: loader 2s infinite;
+}
+
+@keyframes loader {
+    0%{
+        margin: 0px 10%;
+    }
+    20%{
+        margin: 0px 20%;
+    }
+    40%{
+        margin: 0px 40%;
+    }
+    60%{
+        margin: 0px 60%;
+    }
+    80%{
+        margin: 0px 80%;
+    }
+    100%{
+        margin: 0px 90%;
+    }
+}
+.list{
+justify-content: space-between;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 600;
+color:white;
+margin: 20px 35%;
+display: flex;
+}
+ul{
+    text-decoration: none;
+}
+
+.list1 li{
+  text-decoration: none;
+  list-style:square;
+  font-size: 1.5em;
+}
+
+.list2 li{
+    text-decoration: none;
+    list-style:square;
+    font-size: 1.5em;
+  }
+  
+  .techo-list{
+ display: block;
+ width: 40%;
+ margin: auto;
+  }
+  .our-partner{
+    width: 100%;
+    height: 300px;
+  }
+  .company-imgs{
+width: 80%;
+margin: -10px 10%;
+justify-content: space-between;
+display: flex;
+  }
+  .img1{
+    display: flex;
+  }
+  .img2{
+    display: flex;
+  }
+@media screen and (max-width:500px) {
+    .home{
+        width: 100%;
+        height: 800px;
+    }
+     .content{
+        display: block;
+
+     }
+     .content1{
+        margin: auto;
+        width: 90%;
+     
+    }
+    
+    .content2{
+        width: 90%;
+        margin:  auto;
+       
+    }
+    .content2 img{
+        display: block;
+    }
+    #mycon{
+    
+        color: cornsilk;
+        
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+         width: 100%;
+        font-weight: 900;
+        padding: 20% 4% 10% 2%;
+        font-size: 3em;
+        margin: auto ;
+    }
+
+    
+    #inside-info{
+        color: white;
+        font-size: 17px;
+        width: 100%;
+        
+        margin-inline: -10px;
+        font-weight: 200;
+        font-family: cursive;
+    }
+
+    #contact-btn{
+  
+        font-weight: 500;
+        width: 53%;
+        margin: auto 20%;
+        font: 20px  cursive;
+     }
+
+     #contact-btn:hover{
+       background-color: aqua;
+       
+     }
+
+     .boxs{
+        display: block;
+        width: 90%;
+        height: max-content;
+     }
+
+     .box1{
+        width: 100%;
+     }
+     .box2{
+        width: 100%;
+     }
+     .box3{
+        width: 100%;
+     }
+
+      .services{
+        width: 100%;
+        
+       
+      }
+    .serv1{
+        margin: auto 5%;
+        display: block;
+        width: 90%;
+
+    }  
+    .serv2{
+        margin: auto 5%;
+        display: block;
+        width: 90%;
+
+    }  
+
+    #card{
+        width: 23rem;
+    }
+    .industry-ser{
+        width: 90%;
+        height: 600px;
+      }
+      .list{
+        width: 100%;
+        display: block;
+        margin:20% auto;
+      }
+      .loading-animation{
+        width: 50%;
+        margin:-10% auto ;
+        height: 6px;
+        background-color:black;
+    }
+    .techo-list{
+        width: 90%;
+        margin: auto;
+    }
+    .our-partner{
+        width: 70%;
+        height: 400px;
+    
+    }
+    .company-imgs{
+        width: 100%;
+        margin: 0px 20%;
+        
+        display: block;
+          }
+          .img1{
+            width: 100%;
+            display: flex;
+          }
+          .img1 img{
+            width: 50%;
+            height: 150px;
+          }
+          .img2{
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+          }
+          .img2 img{
+            width: 50%;
+            height: 150px;
+          }
+}

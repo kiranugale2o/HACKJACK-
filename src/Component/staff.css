@@ -1,0 +1,36 @@
+#stafcard{
+    width: 30rem;
+    margin: auto;
+    height: 250px;
+}
+
+#prevbtn{
+    height: 40px;
+    margin: 5% 4%;
+    width: 10%;
+}
+#nextbtn{
+    height: 40px;
+    margin: 5% 4%;
+    width: 10%;
+}
+
+@media screen and (max-width:600px) {
+    #stafcard{
+        width: 22rem;
+        margin: auto;
+        height: 250px;
+    }
+    #prevbtn{
+        height: 40px;
+        margin: 35% 4%;
+        bottom: 0%;
+        width: 10%;
+    }
+    #nextbtn{
+        height: 40px;
+        margin: 35% 4%;
+        bottom: 0%;
+        width: 10%;
+    }  
+}

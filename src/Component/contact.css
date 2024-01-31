@@ -1,0 +1,14 @@
+
+#form{
+    margin: 5% auto;
+    width: 30%;
+    background-color: aliceblue;
+}
+
+@media screen and (max-width:600px) {
+    #form{
+        margin: 10px auto;
+        width: 90%;
+        background-color: aliceblue;
+    } 
+}

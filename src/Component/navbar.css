@@ -1,0 +1,45 @@
+
+nav{
+    height: 80px;
+}
+#nlink{
+    color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.1em;
+  font-weight: 500;
+  margin: 5px;
+ 
+}
+#nlink:hover{
+    font-size: medium;
+    font-weight: 700;
+    background-color:black;
+    color: aqua;
+}
+
+#navbarNavAltMarkup{
+    margin: auto 40%;
+    padding: auto;
+}
+
+@media screen and (max-width:600px) {
+    #navbarNavAltMarkup{
+        margin: auto ;
+    }
+    #nlink{
+        margin-left: 40%;
+        margin-right: 60%;
+        background-color: antiquewhite;
+    }
+    nav{
+        height: auto;
+    }
+
+    #nlink:hover{
+        /* font-size: medium;
+        font-weight: 700; */
+        background-color:white;
+        color: aqua;
+    }
+    
+}
