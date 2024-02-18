@@ -56,10 +56,10 @@ export default function Contact(){
     <div className="text-center h2 p-3" style={{margin:"10px 15%",fontFamily:"cursive"}}>Contact Form</div>
   
         <label htmlFor="name" >Enter Name</label>
-        <input type="text" id="fname"   required name="name" style={{borderColor:"black"}} />
+        <input type="text" id="fname"    name="name" style={{borderColor:"black"}} required/>
 
         <label htmlFor="number" >Mobile no.</label>
-        <input type="text" id="number"   required name="number" style={{borderColor:"black"}} />
+        <input type="text" id="number"    name="number" style={{borderColor:"black"}} required/>
        
         <select   required class="form-select" aria-label="Default select example" name="selects" style={{borderColor:"black"}} >
   <option  selected>Select Service</option>
