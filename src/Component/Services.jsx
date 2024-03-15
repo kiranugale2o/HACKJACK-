@@ -9,7 +9,7 @@ export default function Services(){
             <div className="card shadow-lg p-1 mb-5 bg-body-tertiary rounded border" id="card">
   <img src="webdesing.jpg" className="card-img-top" id="cardimg" alt="" />
   <div className="card-body">
-    <h5 className="card-title" style={{margin:"-20px 60px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Web Desing</h5>
+    <h5 className="card-title" style={{margin:"-20px 60px",fontSize:"26px",fontFamily:"cursive",color:"royalblue"}}>Web Design</h5>
     <p className="card-text" style={{margin:"25px auto",fontWeight:"300",fontFamily:"sans-serif",color:"gray",fontSize:"17px"}}>
     Web design is the creation of websites and pages to reflect a company’s brand and information and ensure a user-friendly experience.
     </p>
