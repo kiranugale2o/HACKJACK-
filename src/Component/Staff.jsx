@@ -17,7 +17,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Kiran Ugale</h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Co-founder & CEO of Hackjack</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Co-founder & CEO of Hackjack</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        " Hackjack is help you to crating amazing Website & app for your Business.
        and also hackajck is help to grow your business."
@@ -36,7 +36,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Rohan Kandalkar</h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Software Developer</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Software Developer</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        " I have been Working in Hackjack since last year in position of Software developer "
       </p>
@@ -54,7 +54,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Ganesh Hingamire</h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Social Media Expert</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Social Media Expert</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        " I handling social media accounts also i work on promotion of business & Software in Hackjack"
       </p>
@@ -71,7 +71,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Krushana Hamand</h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Frontend Developer</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Frontend Developer</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        "I have been Working in Hackjack since last year in position of Frontend developer "
       </p>
@@ -88,7 +88,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Ritesh vishawambare </h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Content writer</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Content writer</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        "I work in Hackjack as Content  Writter "
       </p>
@@ -105,7 +105,7 @@ export default function Staff(){
      <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
      <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
    </svg>Kunal Kadam</h5>
-       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}> Business Marketing</h6>
+       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}> Business Marketing</h6>
        <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
         "I have been Working in Hackjack since last year in position of Business Marketing"
        </p> 
@@ -122,13 +122,32 @@ export default function Staff(){
      <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
      <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
    </svg>Shantanu Kale</h5>
-       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>Software developer</h6>
+       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Software developer</h6>
        <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
         "I have been Working in Hackjack since last year in position of Software developer"
        </p> 
      </div>
    </div>
  </div>
+
+
+<div className="carousel-item">
+   
+  <div className="card border shadow-lg p-3 mb-5 bg-body-tertiary rounded" id="stafcard">
+    <div className="card-body">
+      <h5 className="card-title" style={{fontFamily:"cursive"}}>
+      <svg xmlns="http://www.w3.org/2000/svg" width="56" height="46"  fill="currentColo" class="bi bi-person" viewBox="0 0 16 16"  >
+    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
+  </svg>Krushna dudewar</h5>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>Software Developer</h6>
+      <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
+       " I have been Working in Hackjack since last year in position of content writer "
+      </p>
+    </div>
+  </div>
+</div>
+ 
 {/*     card 10 */}
 <div className="carousel-item">
    
@@ -139,7 +158,7 @@ export default function Staff(){
     <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
     <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
   </svg>Shrikant Wankhede </h5>
-      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}>UI Desinger</h6>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>UI Desinger</h6>
       <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
        "I work in Hackjack as UI Desingner "
       </p>
@@ -156,7 +175,7 @@ export default function Staff(){
      <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
      <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
    </svg>Shahid khan</h5>
-       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%",fontFamily:"monospace"}}> Content Writter</h6>
+       <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}> Content Writter</h6>
        <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
         "I have been Working in Hackjack since last year in position of Content Writter"
        </p> 
