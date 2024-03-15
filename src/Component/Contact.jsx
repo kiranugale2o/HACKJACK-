@@ -64,7 +64,7 @@ export default function Contact(){
         <select   required class="form-select" aria-label="Default select example" name="selects" style={{borderColor:"black"}} >
   <option  selected>Select Service</option>
   <option value="Wel Development">Web Development</option>
-  <option value="web desing">Web desing</option>
+  <option value="web desing">Web design</option>
   <option value="app development">App Development</option>
   <option value="desktop ">Desktop Application Development</option>
   <option value="content ">Content Writter</option>
