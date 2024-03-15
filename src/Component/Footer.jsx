@@ -84,7 +84,7 @@ export default function Footer(){
               </p>
               <p>
                 <a href="#!" className="text-white">
-                  Web Desing
+                  Web Design
                 </a>
               </p>
               <p>
