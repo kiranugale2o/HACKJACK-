@@ -44,6 +44,23 @@ export default function Staff(){
   </div>
 </div>
  
+
+<div className="carousel-item">
+   
+  <div className="card border shadow-lg p-3 mb-5 bg-body-tertiary rounded" id="stafcard">
+    <div className="card-body">
+      <h5 className="card-title" style={{fontFamily:"cursive"}}>
+      <svg xmlns="http://www.w3.org/2000/svg" width="56" height="46"  fill="currentColo" class="bi bi-person" viewBox="0 0 16 16"  >
+    <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+    <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"/>
+  </svg>Vittal Puri</h5>
+      <h6 className="card-subtitle mb-2 text-body-secondary" style={{margin:"-20px 55px",width:"100%"}}>frontend Developer</h6>
+      <p className="card-text" style={{fontFamily:"cursive",fontSize:"18px"}}>
+       " I have been Working in Hackjack since last year in position of frontend developer "
+      </p>
+    </div>
+  </div>
+</div>
  {/* card 3 */}
  <div className="carousel-item">
    
